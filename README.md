@@ -13,7 +13,11 @@ Provide visualizations and insights to guide strategic decision-making for conte
 
 Data Sources:
 
-Sample datasets provided by Social Buzz, containing information about various content types, user reactions, and popularity metrics.
+Sample datasets provided by Social Buzz, containing information about various content types, user reactions, and popularity metrics. 
+The three datasets are:
+1. Content
+2. Reactions
+3. Reaction Type
 
 
 Methodology:
