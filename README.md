@@ -1,6 +1,6 @@
 # Content_Popularity_Analysis-SocialBuzz
 
-Project Overview:
+Project Overview:\
 This project focuses on analyzing the content posted on Social Buzz, a leading social media platform, to identify the top 5 content categories with the highest aggregate popularity. The analysis leverages large-scale data to deliver actionable insights that support Social Buzz's rapid growth and data-driven decision-making.
 
 Key Objectives:
