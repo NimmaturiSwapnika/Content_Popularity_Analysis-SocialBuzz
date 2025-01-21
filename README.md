@@ -20,6 +20,13 @@ The three datasets are:
 3. Reaction Type
 
 
+SocialBuzz_Final_Analytical_Dataset: 
+
+This file represents the final, cleaned, and integrated dataset derived from the three original raw datasets provided by Social Buzz. The data was processed through data modeling techniques to merge content categories, user reactions, and popularity metrics into a unified format. This consolidated dataset is designed to facilitate in-depth analysis and provide insights into the top content categories, enabling more informed decision-making for content optimization and strategy.
+
+The dataset is structured and ready for use in various analysis tasks, including trend identification, category performance evaluation, and content engagement insights. It is the foundational data used for deriving key findings and visualizations in the project.
+
+
 Methodology:
 1. Data Understanding
 2. Data Cleaning
